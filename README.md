@@ -1,4 +1,6 @@
-# iptv playlist
+# iptv pla
+
+https://iptv-org.github.io/iptv/subdivisions/ar-x.m3uylist
 
 Below is a list of iptv links by country that you can refer to. **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 
